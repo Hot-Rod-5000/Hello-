@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 int main(int argc, char **argv) {
+printf( "Rodney Cruz\n");
 printf("Computer Engineer\n");
 return 0;
 }
